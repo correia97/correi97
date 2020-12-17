@@ -16,3 +16,6 @@ Apaixonado por desenvolvimento estou sempre buscando melhorar
 - 2021?
 
 ![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=correia97&show_icons=true)
+
+
+[Linkein](https://www.linkedin.com/in/pecorreia)
