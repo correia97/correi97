@@ -4,7 +4,7 @@ Apaixonado por desenvolvimento estou sempre buscando melhorar
 
 - 2008 Front-end em agencia de publicidade e pequenos projetos em PHP
 - 2009 Início do desenvolvimento em Aps.Net Webforms com C#
-- 2010 Trabalho em consultoria para banco privado com .Net, C#, VB script, VB.NET e ASP classico
+- 2010 Trabalho em consultoria para banco privado com .Net, C#, VB script, VB.NET e ASP clássico
 - 2011 Projeto de migração de ERP de delphi para Aps.Net Webforms
 - 2012 Prestação de serviços em Órgão público na construção de sistema utilizado em todo país em Aps.Net Webforms com C#
 - 2013 Mudei para o RJ par atuar em empresa de seguros com evolução e manutenção de sistema para seguro de vida em Aps.Net Webforms com C#
