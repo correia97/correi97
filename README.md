@@ -75,5 +75,7 @@ Um resumo sobre minha carreira
 
 ![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=correia97&show_icons=true)
 
+![Paulo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=correia97&layout=compact)
+
 
 [Meu LinkedIn](https://www.linkedin.com/in/pecorreia)
