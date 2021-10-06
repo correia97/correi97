@@ -63,10 +63,12 @@ Um resumo sobre minha carreira
 	* Melhorias no processo de CI/CD 
 	* Início dos estudos sobre **Docker**
 - 2020 Arquiteto 
-	* Curso de Docker e arquitetura de soluções
+	* Curso de Docker e arquitetura de soluções *[Docker Definitivo](https://dockerdefinitivo.com/)*
 	* Mais responsabilidades frente à aqui e clientes
 	* Sou promovido a **Arquiteto de soluções**
-- 2021?
+- 2021 Arquiteto no Itaú
+	* Curso de Kubernets *[Kubedev](https://kubedev.io/)*
+	* Nova oportunidade para atuar como arquiteto de soluções no **Itaú Unibanco**
 
 
 
